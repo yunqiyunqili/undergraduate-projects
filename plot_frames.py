@@ -6,7 +6,7 @@
 •读取wav⽂件scipy.io. wavfile.read(）
 •⾳频需要归⼀化：最⼤值：np.absolute(wave data).max0
 •画第帧的输⼊提⽰：i=input('please input first frame number(i)")
-实例：录制语⾳sample.wav
+实例：录制语⾳sample.wav,实例：选择第五帧和第六帧。图中蓝⾊代表第⼀帧，橙⾊代表第⼆帧
 '''
 
 from scipy.io import wavfile
