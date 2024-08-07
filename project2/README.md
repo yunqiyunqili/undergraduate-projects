@@ -1,5 +1,5 @@
 计算两个词语的词向量相似度。
 
-加载了预训练的词向量模型（例如 GloVe：https://github.com/stanfordnlp/GloVe.git）
+加载了预训练的词向量模型GloVe：https://github.com/stanfordnlp/GloVe.git
 
 并使用余弦相似度来衡量两个词向量之间的相似度。具体步骤包括读取词向量文件、存储词向量、以及计算两个词向量的相似度。
