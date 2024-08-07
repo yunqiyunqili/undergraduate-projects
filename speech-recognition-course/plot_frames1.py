@@ -24,7 +24,7 @@ def preemphasis(signal, alpha=0.95):
     return np.append(signal[0], signal[1:]-alpha*signal[:-1])
 
 # 读取⾳频⽂件
-filename = '/Users/yunqili/Documents/本科课程作业/大三下/语音识别/YuYinShiBie/YuYinShiBie/Project1/sample.wav'
+filename = 'sample.wav'
 sample_rate, signal = wavfile.read(filename)
 # 归⼀化
 signal = signal / np.abs(signal).max()
