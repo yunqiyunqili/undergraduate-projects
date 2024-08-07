@@ -15,3 +15,5 @@ GUI界面友好，使用简单
 • 对本课程的意见和建议
 
 • 如果你有机会参与Audition CC2023的设计，你会考虑什么新功能?或者目前你的音频 编辑软件是什么版本，使用中还存在什么问题，如何解决?
+### 软件demo
+https://drive.google.com/drive/folders/15hcPgp6vFK0UEU2hmqYBmac-eOS9jA9l?usp=sharing
