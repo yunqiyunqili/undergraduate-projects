@@ -8,7 +8,7 @@ import numpy as np
 import librosa.display
 import matplotlib.pyplot as plt
 from scipy import signal
-from plot_frames import preemphasis
+from plot_frames1 import preemphasis
 from enframe import enframe
 import wave
 
